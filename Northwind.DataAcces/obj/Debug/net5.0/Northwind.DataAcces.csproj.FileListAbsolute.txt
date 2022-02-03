@@ -1,0 +1,17 @@
+C:\Users\ktanay\source\repos\NLayerAppDemo\Northwind.DataAcces\bin\Debug\net5.0\Northwind.DataAcces.deps.json
+C:\Users\ktanay\source\repos\NLayerAppDemo\Northwind.DataAcces\bin\Debug\net5.0\Northwind.DataAcces.runtimeconfig.json
+C:\Users\ktanay\source\repos\NLayerAppDemo\Northwind.DataAcces\bin\Debug\net5.0\Northwind.DataAcces.runtimeconfig.dev.json
+C:\Users\ktanay\source\repos\NLayerAppDemo\Northwind.DataAcces\bin\Debug\net5.0\Northwind.DataAcces.dll
+C:\Users\ktanay\source\repos\NLayerAppDemo\Northwind.DataAcces\bin\Debug\net5.0\ref\Northwind.DataAcces.dll
+C:\Users\ktanay\source\repos\NLayerAppDemo\Northwind.DataAcces\bin\Debug\net5.0\Northwind.DataAcces.pdb
+C:\Users\ktanay\source\repos\NLayerAppDemo\Northwind.DataAcces\bin\Debug\net5.0\Northwind.Entities.dll
+C:\Users\ktanay\source\repos\NLayerAppDemo\Northwind.DataAcces\bin\Debug\net5.0\Northwind.Entities.pdb
+C:\Users\ktanay\source\repos\NLayerAppDemo\Northwind.DataAcces\obj\Debug\net5.0\Northwind.DataAcces.csproj.AssemblyReference.cache
+C:\Users\ktanay\source\repos\NLayerAppDemo\Northwind.DataAcces\obj\Debug\net5.0\Northwind.DataAcces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ktanay\source\repos\NLayerAppDemo\Northwind.DataAcces\obj\Debug\net5.0\Northwind.DataAcces.AssemblyInfoInputs.cache
+C:\Users\ktanay\source\repos\NLayerAppDemo\Northwind.DataAcces\obj\Debug\net5.0\Northwind.DataAcces.AssemblyInfo.cs
+C:\Users\ktanay\source\repos\NLayerAppDemo\Northwind.DataAcces\obj\Debug\net5.0\Northwind.DataAcces.csproj.CoreCompileInputs.cache
+C:\Users\ktanay\source\repos\NLayerAppDemo\Northwind.DataAcces\obj\Debug\net5.0\Northwind.DataAcces.dll
+C:\Users\ktanay\source\repos\NLayerAppDemo\Northwind.DataAcces\obj\Debug\net5.0\ref\Northwind.DataAcces.dll
+C:\Users\ktanay\source\repos\NLayerAppDemo\Northwind.DataAcces\obj\Debug\net5.0\Northwind.DataAcces.pdb
+C:\Users\ktanay\source\repos\NLayerAppDemo\Northwind.DataAcces\obj\Debug\net5.0\Northwind.DataAcces.genruntimeconfig.cache

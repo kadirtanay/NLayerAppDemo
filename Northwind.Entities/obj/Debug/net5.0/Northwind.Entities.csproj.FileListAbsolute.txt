@@ -1,0 +1,15 @@
+C:\Users\ktanay\source\repos\NLayerAppDemo\Northwind.Entities\bin\Debug\net5.0\Northwind.Entities.deps.json
+C:\Users\ktanay\source\repos\NLayerAppDemo\Northwind.Entities\bin\Debug\net5.0\Northwind.Entities.runtimeconfig.json
+C:\Users\ktanay\source\repos\NLayerAppDemo\Northwind.Entities\bin\Debug\net5.0\Northwind.Entities.runtimeconfig.dev.json
+C:\Users\ktanay\source\repos\NLayerAppDemo\Northwind.Entities\bin\Debug\net5.0\Northwind.Entities.dll
+C:\Users\ktanay\source\repos\NLayerAppDemo\Northwind.Entities\bin\Debug\net5.0\ref\Northwind.Entities.dll
+C:\Users\ktanay\source\repos\NLayerAppDemo\Northwind.Entities\bin\Debug\net5.0\Northwind.Entities.pdb
+C:\Users\ktanay\source\repos\NLayerAppDemo\Northwind.Entities\obj\Debug\net5.0\Northwind.Entities.csproj.AssemblyReference.cache
+C:\Users\ktanay\source\repos\NLayerAppDemo\Northwind.Entities\obj\Debug\net5.0\Northwind.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ktanay\source\repos\NLayerAppDemo\Northwind.Entities\obj\Debug\net5.0\Northwind.Entities.AssemblyInfoInputs.cache
+C:\Users\ktanay\source\repos\NLayerAppDemo\Northwind.Entities\obj\Debug\net5.0\Northwind.Entities.AssemblyInfo.cs
+C:\Users\ktanay\source\repos\NLayerAppDemo\Northwind.Entities\obj\Debug\net5.0\Northwind.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ktanay\source\repos\NLayerAppDemo\Northwind.Entities\obj\Debug\net5.0\Northwind.Entities.dll
+C:\Users\ktanay\source\repos\NLayerAppDemo\Northwind.Entities\obj\Debug\net5.0\ref\Northwind.Entities.dll
+C:\Users\ktanay\source\repos\NLayerAppDemo\Northwind.Entities\obj\Debug\net5.0\Northwind.Entities.pdb
+C:\Users\ktanay\source\repos\NLayerAppDemo\Northwind.Entities\obj\Debug\net5.0\Northwind.Entities.genruntimeconfig.cache
